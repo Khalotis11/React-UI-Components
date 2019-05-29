@@ -1,1 +1,20 @@
 /* All styles for your header Components live here */
+.header-title {
+  display: flex;
+  align-items: baseline;
+  border-left: 2px solid gray;
+}
+h2 {
+  margin-left: 15px;
+}
+span {
+  color: gray;
+  margin-left: 10px;
+}
+.header-content {
+  font-size: 20px;
+  text-align: justify;
+}
+.lambda-logo {
+  height: 80px;
+}
