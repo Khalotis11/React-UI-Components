@@ -14,6 +14,7 @@ span {
 .header-content {
   font-size: 20px;
   text-align: justify;
+  margin-left: 15px;
 }
 .lambda-logo {
   height: 80px;
