@@ -7,8 +7,10 @@ import { CardContent } from "./CardContent";
 export const CardContainer = () => {
   return (
     <div>
-      <CardBanner />
-      <CardContent />
+      <a href="https://www.reactjs.org">
+        <CardBanner />
+        <CardContent />
+      </a>
     </div>
   );
 };
